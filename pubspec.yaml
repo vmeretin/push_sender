@@ -5,3 +5,7 @@ version: 1.0.0
 
 environment:
   sdk: '>=2.13.0 <3.0.0'
+
+dependencies:
+  googleapis_auth: ^1.1.0
+  dio: ^4.0.0
