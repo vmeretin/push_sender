@@ -1,0 +1,7 @@
+name: push_sender
+description: A simple command line tool that allows you to send push notifications through the Firebase.
+publish_to: 'none'
+version: 1.0.0
+
+environment:
+  sdk: '>=2.13.0 <3.0.0'
